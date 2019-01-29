@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ball
+comment1.params=p
+comment1.target=Ball(javax.swing.JPanel)
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=
+comment3.target=void\ erase()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=
+comment5.target=void\ run()
+numComments=6
