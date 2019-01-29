@@ -39,8 +39,8 @@ public class Ball extends Thread {
       
       Dimension d = panel.getSize();
       Random r = new Random();
-      x = r.nextInt(d.width-1);
-      y = r.nextInt(d.height-1);
+      x = r.nextInt(d.width-XSIZE);
+      y = r.nextInt(d.height-YSIZE);
       clip = Applet.newAudioClip(getClass().getResource("bruh.au"));
       R = r.nextInt(233);
       G = r.nextInt(233);
